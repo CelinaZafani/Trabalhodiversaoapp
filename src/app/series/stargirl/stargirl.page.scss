@@ -1,0 +1,43 @@
+ion-content{
+  background-image:url ('https://s1.1zoom.me/big0/55/Stars_Sky_454921.jpg');
+}
+
+.banner{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 190px;
+  width: 100%;
+  position: relative;
+  padding: 13px;
+}
+
+.duracao{
+    margin-left: 0px;
+  }
+
+  p{
+    margin-left: 0px;
+    padding: 0px;
+    margin: 0;
+    margin-top: 5px;
+  }
+
+.redondo{
+  margin-right: 5px;
+  width: 60px;
+  height: 60px;
+  size: 60;
+  border-radius: 50%;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+    color: #2a487d;
+}
+
+.info{
+  margin-top: 15px;
+}
